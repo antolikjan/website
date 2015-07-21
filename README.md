@@ -1,4 +1,2 @@
-jnrbsn.com
-==========
+This will become my personal website. 
 
-This is the source code for [jnrbsn.com](http://jnrbsn.com), my personal website.
