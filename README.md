@@ -1,4 +1,4 @@
-jnrbsn.com
+website
 ==========
 
-This is the source code for [jnrbsn.com](http://jnrbsn.com), my personal website.
+This is the source code for what will become my personal website.
