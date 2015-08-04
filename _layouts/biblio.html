@@ -10,10 +10,10 @@
 {% capture bibentry %}entry-bibtex{{entry.key}}{% endcapture %}
 
 {% if entry.abstract %}
-  <a href="javascript:void(0)" onclick="$('#{{absentry}}').toggle(function(event){event.preventDefault();});">abstract</a>,
+  <a href="javascript:void(0)" onclick="$('#{{absentry}}').toggle();">abstract</a>,
 {% endif %}
 
-<a href="javascript:void(0)" onclick="$('#{{bibentry}}').toggle(function(event){event.preventDefault();});">bibtex</a>
+<a href="javascript:void(0)" onclick="$('#{{bibentry}}').toggle();">bibtex</a>
 
 {% if entry.abstract %}
 <p>
