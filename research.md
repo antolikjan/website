@@ -61,8 +61,19 @@ of the following projects please [contact me](/index.html).
     visualize the network spatial structure and connectivity in [Mozaik](https://github.com/antolikjan/mozaik). The aim of this project is to develop a 
     model inspection and visualization tool, for Mozaik, possibly building on existing tools such as [ConnPlotter](http://arken.umb.no/~plesser/software.html), [Moogli](http://moose.ncbs.res.in/moogli/), and [NeurAnim](http://software.incf.org/software/neuranim).
     </small>
-* <a href="javascript:void(0)" onclick="$('#project4').toggle();">Ringach retinal mozaik model with followed by activity based development</a><br>
+* <a href="javascript:void(0)" onclick="$('#project4').toggle();">Unifying retinal mozaik model with activity based development</a><br>
     <small id="project4" style="display: none;">
+    During post-natal development, primary visual cortex undergoes remarkable functional organization resulting - among others - in expression
+    of topologically smooth orientation map across it's surface. The most common type of explenation for this phenomena is activity based development,
+    whereby internally generated or visually driven activity coupled with plasticity in the thalamo-cortical and corico-cortical pathway
+    induces gradual establishment of the orientation maps. [LISSOM]() based familiy of models is an example of such activity + plasticity driven models.
+    Recently, an alternative explanation has been proposed by Ringach et al. , in which the initial orientation maps are directly established by
+    the very specific geometric properties of retinal ganglion cells RFs positions in visual space: [retinal mozaiks](). However, this explanation
+    can account only for initial very weak orientation maps, and low orienation selectivities of individual neurons in particular, and it is clear that
+    the system has to undergo major further refinement in order to match the experimentally observed adult state. The goal of this project is to combine
+    the two hypothesis and of orientation map development and investigate their possible interactions.
+    Specifically [retinal mozaiks]() will be introduced into a LISSOM model, thus inducing the initial orientation maps based on Ringach et al. theory.
+    This will be followed by simulation of the activity and plasticity driven development, which should lead to refinement of the intial maps.
     </small>
     
     
