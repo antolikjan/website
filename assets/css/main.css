@@ -275,15 +275,17 @@ h1 > a:hover {
     width: 100%;
 }
 
-#projectstable{
+.projectrow{
+   vertical-align: center;
    border-spacing: 30px;
    margin-bottom: 100px;
+   padding-bottom: 3em;
  }
- 
-td
-{
-  padding-bottom: 3em;
-}
+
+.titlerow {
+  font-size : 20px
+ }
+
 
 small.studentprojectlist {
  display: inline-block;
