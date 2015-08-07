@@ -84,7 +84,7 @@ of the following projects please [contact me](/index.html).
         model specification language, and [Nest](http://www.nest-initiative.org/) as the simulator of choice in our projects.
         Currently we deploy Mozaik (together with the software stack) on a local cluster, however already at this relatively 
         small scale we are aware of number of inefficiencies in terms of its performance in the parallel environment. Furthermore, in future we would like 
-        to deploy Mozaik on a large-scale High Performance Computing (HPC) platform such as [?](). The goal of this project is to test and optimize Mozaik and it's underlying
+        to deploy Mozaik on a large-scale High Performance Computing (HPC) platform such as [ADA](http://www.idris.fr/ada/). The goal of this project is to test and optimize Mozaik and it's underlying
         software stack to run efficiently on the local cluster, and subsequently scale it up to a large-scale HPC platform.
         This project is suitable for students with experience and interest in parallel programming and HPC.
     </small>
