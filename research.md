@@ -30,9 +30,9 @@ comprehensive model of cat primary visual cortex.
 
 ### Available student projects
 
-This is a list of projects available for interested students. Most projects are designed to be completed
-within 3 to 6 month, but some can be expanded into full PhD scope. If you are interested in working on any 
-of the following projects please [contact me](/index.html).
+This is a list of projects available for interested students. Most are designed to be completed
+within 3 to 6 month, but some can be expanded into full PhD scope. If you are interested in working on any of the projects
+please [contact me](./index.html).
 
 * <a href="javascript:void(0)" onclick="$('#project1').toggle();">Graphical user interface for Mozaik datastore and analysis</a>    
     <small id="project1" class="studentprojectlist" style="display: none;">
