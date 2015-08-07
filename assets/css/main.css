@@ -100,7 +100,6 @@ header {
 .navigation {
     color: #bbb;
     background-color: #fff;
-    background-image: url("/assets/img/top-banner.png");
     border: 1px solid #ccc;
     font-size: 18px;
     border-radius: 10px 10px 0 0;
@@ -157,25 +156,6 @@ h1 > a:hover {
     0%, 50%, 100% { transform: rotate(0deg); animation-timing-function: ease-out; }
     25% { transform: rotate(30deg); animation-timing-function: ease-in; }
     75% { transform: rotate(-30deg); animation-timing-function: ease-in; }
-}
-
-h1 > a > .dot-head {
-    background: url("/assets/img/head-logo.svg") no-repeat;
-    background-size: 32px 32px;
-    display: inline-block;
-    height: 32px;
-    margin: 0 5px -2px;
-    overflow: hidden;
-    text-indent: -100px;
-    width: 32px;
-    -webkit-transition: transform .5s;
-    -moz-transition: transform .5s;
-    transition: transform .5s;
-}
-
-h1 > a:hover > .dot-head {
-    -webkit-animation: wobble 1.5s .3s infinite;
-    animation: wobble 1.5s .3s infinite;
 }
 
 /**
