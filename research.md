@@ -34,35 +34,8 @@ This is a list of projects available for interested students. Most are designed 
 within 3 to 6 month, but some can be expanded into full PhD scope. If you are interested in working on any of the projects
 please [contact me](./index.html).
 
-* <a href="javascript:void(0)" onclick="$('#project1').toggle();">Graphical user interface for Mozaik datastore and analysis</a>    
+* <a href="javascript:void(0)" onclick="$('#project1').toggle();">Unifying retinal mozaik model with activity based development.</a>
     <small id="project1" class="studentprojectlist" style="display: none;">
-        <a href="https://github.com/antolikjan/mozaik">Mozaik</a> is a an automated workflow for large-scale neural simulations.
-        Mozaik automatically records data from simulations, annotates it with metadata regarding experimental context, and stores
-        them in an internal data-store. An query based interface allows analysis and visualization modules to efficiently navigate
-        through the stored data based on the attached metadata. Currently, Mozaik offers only programatic API to perform these interactions
-        with data-store. The goal of this project would be to write a graphical user interface frontend to the Mozaik data-store, that will
-        allow users to conveniently and interactively navigate and select data from the data-store and subsequently execute on them anaysis and
-        visualization routines from Mozaik libraries.      
-    </small> 
-* <a href="javascript:void(0)" onclick="$('#project2').toggle();">Mozaik data-store module based on object oriented database</a><br>
-    <small id="project2" class="studentprojectlist" style="display: none;">
-        <a href="https://github.com/antolikjan/mozaik">Mozaik</a> is a an automated workflow for large-scale neural simulations,
-        with a highly modular architecture. One of the core Mozaik modules is a data-store, in which recordings from simulations richly
-        annotated with metadata regarding experimental context are stored. Currently the data-store module is implemented as a
-        database-like system based on [Neo](http://neuralensemble.org/neo/) library for internal representation of recorded data. 
-        The goal of this project is to develop an alternative data-store module based around dedicated key-value database such as
-        [BerkelyDB](http://www.oracle.com/technetwork/database/database-technologies/berkeleydb/overview/index.html) or [CodernityDB](http://labs.codernity.com/codernitydb/).
-    </small>
-* <a href="javascript:void(0)" onclick="$('#project3').toggle();">A model inspection/visualization tool for Mozaik</a><br>
-    <small id="project3"  class="studentprojectlist" style="display: none;">
-        <a href="https://github.com/antolikjan/mozaik">Mozaik</a> is a an automated workflow for large-scale neural simulations.
-        The [model of primary visual cortex](/projects.html) developed in our lab, and implemented in Mozaik, has a complex connectivity structure. 
-        Although there are various tests that the connectivity has been realized as expected, currently, there is no easy way to 
-        visualize the network spatial structure and connectivity in [Mozaik](https://github.com/antolikjan/mozaik). The aim of this project is to develop a 
-        model inspection and visualization tool, for Mozaik, possibly building on existing tools such as [ConnPlotter](http://arken.umb.no/~plesser/software.html), [Moogli](http://moose.ncbs.res.in/moogli/), and [NeurAnim](http://software.incf.org/software/neuranim).
-    </small>
-* <a href="javascript:void(0)" onclick="$('#project4').toggle();">Unifying retinal mozaik model with activity based development</a><br>
-    <small id="project4" class="studentprojectlist" style="display: none;">
         During post-natal development, primary visual cortex undergoes remarkable functional organization resulting - among others - in expression
         of topologically smooth orientation map across it's surface. The most common type of explenation for this phenomena is activity based development,
         whereby internally generated or visually driven activity coupled with plasticity in the thalamo-cortical and corico-cortical pathway
@@ -77,8 +50,55 @@ please [contact me](./index.html).
         The correspondance between the initial retinal mozaik induced map with the final developed map will be assesed, and possible advantages of such
         dual orientation map development mechanism will be investigated.
     </small>
-* <a href="javascript:void(0)" onclick="$('#project5').toggle();">Deployment of Mozaik on a HPC platrform.</a><br>
+* <a href="javascript:void(0)" onclick="$('#project2').toggle();">Embedding of detailed compartmental neuron models into large-scale model of V1.</a>    
+    <small id="project2" class="studentprojectlist" style="display: none;">
+        One of the ongoing projects in our group is development of  <a href="./projects.html">large-scale integrative model </a> of cat primary visual cortex (V1).
+        This model is based on the <a href="http://www.scholarpedia.org/article/Adaptive_exponential_integrate-and-fire_model">Adaptive-Exponential Leaky Integrate and Fire</a> 
+        neuron model, which reduces biological neurons to a point process, ignoring
+        its geometrical properties. In this project student will embed single compartmental model of V1 pyramidal neuron into the large scale point process
+        simulation available in the group, and investigate the behavior of the added detailed neuron under the influence of the input coming from the large scale 
+        V1 simulation, focusing on properties influenced by the neuron's geometry.
+    </small> 
+* <a href="javascript:void(0)" onclick="$('#project3').toggle();">Local-field potentials (LFP) in a large-scale model of cat primary visual cortex.</a>    
+    <small id="project3" class="studentprojectlist" style="display: none;">
+        One of the ongoing projects in our group is development of  <a href="./projects.html">large-scale integrative model </a> of cat primary visual cortex (V1).
+        [LFP](https://en.wikipedia.org/wiki/Local_field_potential) is an electrophysiological signal generated by the summed electric current flowing from multiple 
+        nearby neurons within a small volume of nervous tissue. The goal of this project is to investigate the LFP signals that would be generated 
+        in our simulations of V1. The V1 model under investigation does not explicitly  contain LFP signals, only the sub-threshold and spiking responses of 
+        individual neurons are available. Therefore one of previously proposed models 
+        of LFP signals such as [this one](https://github.com/INM-6/hybridLFPy) will be used to generate artifical LFP signals based on the outputs of the V1 simulation. 
+        This will be followed by thourough analysis of the resulting LFPs and results compared to previous findings, including recent data recorded at <a href="http://www.unic.cnrs-gif.fr/teams.html">UNIC</a> by the 
+        <a href="https://www.unic.cnrs-gif.fr/teams/Research%20group%20of%20Yves%20Fr%C3%A9gnac">Yves Frégnac group</a>. 
+  </small>        
+* <a href="javascript:void(0)" onclick="$('#project4').toggle();">Graphical user interface for Mozaik datastore and analysis.</a>    
+    <small id="project4" class="studentprojectlist" style="display: none;">
+        <a href="https://github.com/antolikjan/mozaik">Mozaik</a> is a an automated workflow for large-scale neural simulations.
+        Mozaik automatically records data from simulations, annotates it with metadata regarding experimental context, and stores
+        them in an internal data-store. An query based interface allows analysis and visualization modules to efficiently navigate
+        through the stored data based on the attached metadata. Currently, Mozaik offers only programatic API to perform these interactions
+        with data-store. The goal of this project would be to write a graphical user interface frontend to the Mozaik data-store, that will
+        allow users to conveniently and interactively navigate and select data from the data-store and subsequently execute on them anaysis and
+        visualization routines from Mozaik libraries.      
+    </small> 
+* <a href="javascript:void(0)" onclick="$('#project5').toggle();">Mozaik data-store module based on object oriented database.</a>
     <small id="project5" class="studentprojectlist" style="display: none;">
+        <a href="https://github.com/antolikjan/mozaik">Mozaik</a> is a an automated workflow for large-scale neural simulations,
+        with a highly modular architecture. One of the core Mozaik modules is a data-store, in which recordings from simulations richly
+        annotated with metadata regarding experimental context are stored. Currently the data-store module is implemented as a
+        database-like system based on [Neo](http://neuralensemble.org/neo/) library for internal representation of recorded data. 
+        The goal of this project is to develop an alternative data-store module based around dedicated key-value database such as
+        [BerkelyDB](http://www.oracle.com/technetwork/database/database-technologies/berkeleydb/overview/index.html) or [CodernityDB](http://labs.codernity.com/codernitydb/).
+    </small>
+* <a href="javascript:void(0)" onclick="$('#project6').toggle();">A model inspection/visualization tool for Mozaik.</a>
+    <small id="project6"  class="studentprojectlist" style="display: none;">
+        <a href="https://github.com/antolikjan/mozaik">Mozaik</a> is a an automated workflow for large-scale neural simulations.
+        The [model of primary visual cortex](/projects.html) developed in our lab, and implemented in Mozaik, has a complex connectivity structure. 
+        Although there are various tests that the connectivity has been realized as expected, currently, there is no easy way to 
+        visualize the network spatial structure and connectivity in [Mozaik](https://github.com/antolikjan/mozaik). The aim of this project is to develop a 
+        model inspection and visualization tool, for Mozaik, possibly building on existing tools such as [ConnPlotter](http://arken.umb.no/~plesser/software.html), [Moogli](http://moose.ncbs.res.in/moogli/), and [NeurAnim](http://software.incf.org/software/neuranim).
+    </small>
+* <a href="javascript:void(0)" onclick="$('#project7').toggle();">Deployment of Mozaik on a HPC platrform.</a>
+    <small id="project7" class="studentprojectlist" style="display: none;">
         [Mozaik](https://github.com/antolikjan/mozaik) is a an automated workflow for large-scale neural simulations.
         Mozaik depends on a moderate software stack including [PyNN](http://neuralensemble.org/PyNN/) as a simulator independent
         model specification language, and [Nest](http://www.nest-initiative.org/) as the simulator of choice in our projects.
@@ -88,7 +108,15 @@ please [contact me](./index.html).
         software stack to run efficiently on the local cluster, and subsequently scale it up to a large-scale HPC platform.
         This project is suitable for students with experience and interest in parallel programming and HPC.
     </small>
-     
+* <a href="javascript:void(0)" onclick="$('#project8').toggle();">Sumatra integration with Mozaik.</a>    
+    <small id="project8" class="studentprojectlist" style="display: none;">
+        <a href="https://github.com/antolikjan/mozaik">Mozaik</a> is a an automated workflow for large-scale neural simulations.
+        <a href="http://neuralensemble.org/sumatra/">Sumatra</a> is a tool for provenance tracking. Sumatra shares several features with Mozaik,  but it also 
+        posses features that would enhance the Mozaik workflow. The goal of this project is to integrate Sumatra with Mozaik, and 
+        remove overlapping features from Mozaik and delegating them to Sumatra, in line with long term goal of outsourcing 
+        as much functionality from Mozaik to dedicated tools. This project is suitable for students with interest in Neuroinformatics
+        and moderate skills in Python and versioning systems. 
+    </small> 
     
     
     
