@@ -30,9 +30,9 @@ comprehensive model of cat primary visual cortex.
 
 ### Available student projects
 
-This is a list of projects available for interested students. Most are designed to be completed
-within 3 to 6 month, but some can be expanded into full PhD scope. If you are interested in working on any of the projects
-please [contact me](./index.html).
+This is a list of projects available for interested students or enthusiasts. Most are designed to be completed
+within 3 to 6 month, but some can be expanded into longer projects even full PhD scope. If you are interested 
+in working on any of the projects please [contact me](./index.html).
 
 * <a href="javascript:void(0)" onclick="$('#project1').toggle();">Unifying retinal mozaik model with activity based development.</a>
     <small id="project1" class="studentprojectlist" style="display: none;">
@@ -50,6 +50,15 @@ please [contact me](./index.html).
         The correspondance between the initial retinal mozaik induced map with the final developed map will be assesed, and possible advantages of such
         dual orientation map development mechanism will be investigated.
     </small>
+* <a href="javascript:void(0)" onclick="$('#project8').toggle();">Open Vision project.</a>    
+    <small id="project8" class="studentprojectlist" style="display: none;">
+        <a href="https://github.com/antolikjan/mozaik">Mozaik</a> is a an automated workflow for large-scale neural simulations. Inspired by the <a href="www.openworm.org">OpenWorm</a>
+	initiative, this project strives to bring neural based modelling of vision to the public. It will seek to engage the cognitive sciences enthusiast community into
+	coordinate effort to build a comprehensive model of early and higher vision. We envision multiple phases of the project: <br>
+	(1) Build a server running mozaik based V1 model and serve it on the new Open Vision website. The website will allow any member of public to submit a video and receive back the responses of selected model cells.<br>
+	(2) Develop a web frontend to the Mozaik toolkit and use it to expand the Open Vision website to allow full configuration of the served model. Publish more models and experimental protocols already develop in our group. <br>
+	(3) Expand upon 1 and 2 to build full open science platform similar to OpenWorm project, and build striving community around it.
+    </small> 
 * <a href="javascript:void(0)" onclick="$('#project2').toggle();">Embedding of detailed compartmental neuron models into large-scale model of V1.</a>    
     <small id="project2" class="studentprojectlist" style="display: none;">
         One of the ongoing projects in our group is development of  <a href="./projects.html">large-scale integrative model </a> of cat primary visual cortex (V1).
