@@ -6,24 +6,28 @@ title: Research
 ### Research background
 
 
+
 By training I am a theoretical computer scientist with the focus on artificial intelligence and machine learning. Towards the end of my
 studies, I have increasingly often tapped neuroscience and psychology for inspirations on how to build intelligent systems.
 This dual interest lead me to join a program in [Neuroinformatics](http://www.anc.ed.ac.uk/dtc/) at the [Unviersity of Edinburgh](http://www.ed.ac.uk/home), where my interest in the brain
 grew further, eventully leading to my PhD thesis on the topic of [Development of functional properties in primary visual cortex](https://www.era.lib.ed.ac.uk/handle/1842/4875) under the
 supervision of [James Bednar](http://homepages.inf.ed.ac.uk/jbednar/). My first post-doctoral post was in the lab of [Tom-Mrsic Flogel](http://www.biozentrum.unibas.ch/research/groups-platforms/overview/unit/mrsic-flogel/) at UCL where I had the chance to
 brush up my machine learning skills while investigating novel ways to estimate receptive fields in local populations of mouse
-primary visual cortex neurons. Currently I am further pursuing my interset in the visual cortex at <a href="http://www.unic.cnrs-gif.fr/teams.html">UNIC</a> CNRS by building large-scale
-comprehensive model of cat primary visual cortex.
+primary visual cortex neurons. Next I have switched my attention to studying cat early vision  using [large-scale spiking neural modelling approach](http://127.0.0.1:4000/projects.html) under the co-supervision of <a href="http://andrewdavison.info/">Andrew Davison</a> and <a href="https://www.unic.cnrs-gif.fr/people/Yves_Fr%C3%A9gnac/"> Yves Frégnac</a> at 
+the <a href="https://www.unic.cnrs-gif.fr/">UNIC</a> department of CNRS. Currently pursue the study of early vision at <a href="http://www.institut-vision.org/en/">Institute de la Vision</a> in Paris,
+where I continue to develop detailed models of visual cortex, and apply them to the problem of [optogenetic based cortical visual prosthesis](https://www.darpa.mil/news-events/2017-07-10), as well as
+utilize my experience in artificial intelligence and cortical modelling to pursue projects in the field of [Neuromorphic Vision](http://neuromorphic-vision.com/).
+
 
 <br>
 
 ### Current research interests
 
-* computational modelling
 * visual system
 * computational neuroscience
 * system identification
 * machine learning
+* neuromorphic computation
 
 <br>
 
