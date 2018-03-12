@@ -2,7 +2,7 @@ title: Jan Antolik
 
 description: descrsasadasdasdasd
 
-gems: ['jekyll/scholar']
+plugins: ['jekyll/scholar']
 
 scholar:
   style: apa-no-doi-no-issue

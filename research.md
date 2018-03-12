@@ -10,13 +10,13 @@ title: Research
 By training I am a theoretical computer scientist with the focus on artificial intelligence and machine learning. Towards the end of my
 studies, I have increasingly often tapped neuroscience and psychology for inspirations on how to build intelligent systems.
 This dual interest lead me to join a program in [Neuroinformatics](http://www.anc.ed.ac.uk/dtc/) at the [Unviersity of Edinburgh](http://www.ed.ac.uk/home), where my interest in the brain
-grew further, eventully leading to my PhD thesis on the topic of [Development of functional properties in primary visual cortex](https://www.era.lib.ed.ac.uk/handle/1842/4875) under the
-supervision of [James Bednar](http://homepages.inf.ed.ac.uk/jbednar/). My first post-doctoral post was in the lab of [Tom-Mrsic Flogel](http://www.biozentrum.unibas.ch/research/groups-platforms/overview/unit/mrsic-flogel/) at UCL where I had the chance to
+grew further, eventually leading to my PhD thesis on the topic of [Development of functional properties in primary visual cortex](https://www.era.lib.ed.ac.uk/handle/1842/4875) under the
+supervision of [James Bednar](http://homepages.inf.ed.ac.uk/jbednar/). My first post-doctoral post was in the lab of [Tom-Mrsic Flogel](http://www.biozentrum.unibas.ch/research/groups-platforms/overview/unit/mrsic-flogel/) at UCL, where I had the chance to
 brush up my machine learning skills while investigating novel ways to estimate receptive fields in local populations of mouse
 primary visual cortex neurons. Next I have switched my attention to studying cat early vision  using [large-scale spiking neural modelling approach](http://127.0.0.1:4000/projects.html) under the co-supervision of <a href="http://andrewdavison.info/">Andrew Davison</a> and <a href="https://www.unic.cnrs-gif.fr/people/Yves_Fr%C3%A9gnac/"> Yves Frégnac</a> at 
-the <a href="https://www.unic.cnrs-gif.fr/">UNIC</a> department of CNRS. Currently pursue the study of early vision at <a href="http://www.institut-vision.org/en/">Institute de la Vision</a> in Paris,
+the <a href="https://www.unic.cnrs-gif.fr/">UNIC</a> department of CNRS. Currently, I pursue the study of early vision at <a href="http://www.institut-vision.org/en/">Institute de la Vision</a> in Paris,
 where I continue to develop detailed models of visual cortex, and apply them to the problem of [optogenetic based cortical visual prosthesis](https://www.darpa.mil/news-events/2017-07-10), as well as
-utilize my experience in artificial intelligence and cortical modelling to pursue projects in the field of [Neuromorphic Vision](http://neuromorphic-vision.com/).
+utilize my experience in artificial intelligence and cortical modeling to pursue projects in the field of [Neuromorphic Vision](http://neuromorphic-vision.com/).
 
 
 <br>
@@ -130,7 +130,15 @@ in working on any of the projects please [contact me](./index.html).
         as much functionality from Mozaik to dedicated tools. This project is suitable for students with interest in Neuroinformatics
         and moderate skills in Python and versioning systems. 
     </small> 
-    
-    
-    
-    
+* <a href="javascript:void(0)" onclick="$('#project9').toggle();">Processing of higher order correlations in early visual cortex\: a computational modelling investigation</a>
+  <small id="project9" class="studentprojectlist" style="display: none;">
+    Recent experimental studies have revealed differences in how neurons in primary (V1) and secondary (V2) visual cortices (the first two stages of visual cortical processing) process high-order statistics in visual scenes, indicating emergence of sensitivity to 2nd order correlations in V2 but not V1 neurons \[[1](https://doi.org/10.1038/nn.3402),[2](https://doi.org/10.1016/j.visres.2014.10.004),[3](https://doi.org/10.7554/eLife.03722)\]. However, the neural mechanisms of such sensitivity, and their implementation in biological neural substrate remain unknown.  To address this question, we will use detailed large-scale spiking neural network modelling paradigm to formulate hypothesis of neural circuits that can explain such neural functional properties. The student will be responsible for the first stage of longer-term project, in which he will implement a set of specialized visual stimuli as in \[[1](https://doi.org/10.1038/nn.3402)\]. Subsequently, student will test an existing model of V1 using the same experimental paradigm as in \[[1](https://doi.org/10.1038/nn.3402)\] for sensitivity to 2nd order correlations.
+  </small> 
+
+* <a href="javascript:void(0)" onclick="$('#project10').toggle();">Deep biologically structured system identification approaches for studying primary visual cortex function</a>
+  <small id="project10" class="studentprojectlist" style="display: none;">
+    A common approach for studying the function of early sensory systems is to determine the relationship between sensory inputs and associated (experimentally recorded) neural responses. In the past, mostly linear \[[1](http://www.ncbi.nlm.nih.gov/pubmed/12938771
+)\], or shallow non-linear techniques were utilized, leading to limited predictive and consequently explanatory power of models fitted in this way. More recently, the popular deep convolutional architectures were successfully tested on the neural data \[[2](https://arxiv.org/abs/1711.02653),[3](https://doi.org/10.1101/201764)\]. These general, machine-learning motivated models ,however, ignore the known anatomical and functional architecture of visual system. Recently, we have presented a multi-stage model of V1 which reflected some of the most prominent features of the retino-cortical pathway \[[4](https://doi.org/10.1371/journal.pcbi.1004927)\], and demonstrated that such incorporation of V1 biology can improve performance in comparison to state-of-the-art models. In this project we will  built upon these early results, and develop novel deep-architectures inspired by the deep convolutional networks, but enriched by biologically inspired elements. The student will be responsible for designing, implementing and subsequently testing the new models on neural population recordings from cat primary visual cortex. This project will be undertaken in collaboration with experimental lab of Yves Fregnac, CNRS, France, and computational lab of Dan Butts, University of Maryland. Prior experience in machine learning is a plus.
+  </small> 
+
+   
