@@ -1,8 +1,8 @@
 title: Jan Antolik
 
-description: descrsasadasdasdasd
+description: Homepage of Jan Antolik
 
-plugins: ['jekyll/scholar']
+plugin_dirs: ['jekyll/scholar']
 
 scholar:
   style: apa-no-doi-no-issue
