@@ -15,9 +15,9 @@ but neural and behavioral learning will also be covered. Starting from school ye
 |--------|-------------------------------------------|----|
 | 27.2.  |  &nbsp;&nbsp; Sub-cortical vision, color, binocularity | &nbsp;&nbsp;  [slides](./assets/slides/SubCorticalVision.pdf) &nbsp;&nbsp; [\(intro\)](./assets/slides/Introduction.pdf)|
 | 6.3.   |  &nbsp;&nbsp; Medium-to-high level vision | &nbsp;&nbsp; [slides](./assets/slides/ExtraStriateCortex.pdf) |
-| 13.3.  |  &nbsp;&nbsp; Computational modelling: system identification | |
-| 20.3.  |  &nbsp;&nbsp; Computational modelling: dynamical modelling | |
-| 27.3.  |  &nbsp;&nbsp; Development and learning| |
+| 13.3.  |  &nbsp;&nbsp; Development and learning| &nbsp;&nbsp; [slides](./assets/slides/development.pdf) |
+| 20.3.  |  &nbsp;&nbsp; Computational modelling: system identification | &nbsp;&nbsp; [slides](./assets/slides/SystemIdentificationMethods.pdf) |
+| 27.3.  |  &nbsp;&nbsp; Computational modelling: dynamical modelling | |
 | 3.4.   |  &nbsp;&nbsp; Buffer  (test)| |
 | 10.4.  |  &nbsp;&nbsp; Motorika I| |
 | 17.4.  |  &nbsp;&nbsp; Hippocampus I| | 
