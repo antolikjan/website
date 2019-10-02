@@ -14,21 +14,21 @@
     <meta name="keywords" content="Jan Antolik,jan,antolik,Jan,Antolik,Computational,Neuroscience,Vision,Models,System Identification,Science,Projects,Cortex">
     <link rel="icon" type="image/png" href="/assets/img/favicon.png">
     <link rel="stylesheet" href="//fonts.googleapis.com/css?family=Open+Sans:400,600,700,400italic,600italic,700italic">
-    <link rel="stylesheet" href="./vendor/academicons/academicons.css">
-    <link rel="stylesheet" href="./vendor/fontello/css/fontello.css">
-    <link rel="stylesheet" href="./vendor/fontello/css/animation.css">
-    <link rel="stylesheet" href="./assets/css/main.css">
+    <link rel="stylesheet" href="/vendor/academicons/academicons.css">
+    <link rel="stylesheet" href="/vendor/fontello/css/fontello.css">
+    <link rel="stylesheet" href="/vendor/fontello/css/animation.css">
+    <link rel="stylesheet" href="/assets/css/main.css">
 </head>
 <body>
 
     <div class="container">
-        <div class="navigation" style="background-image: url('./assets/img/top-banner.png')">
+        <div class="navigation" style="background-image: url('/assets/img/top-banner.png')">
             <ul style="vertical-align: bottom;padding-top:115px">
-                <li><a href="./"><i class="icon-info-circled"></i><span>about</span></a></li>
-                <li><a href="./projects.html"><i class="icon-wrench"></i><span>projects</span></a></li>
-                <li><a href="./publications.html"><i class="icon-wrench"></i><span>publications</span></a></li>
-                <li><a href="./research.html"><i class="icon-wrench"></i><span>research</span></a></li>
-                <li><a href="./teaching.html"><i class="icon-wrench"></i><span>teaching</span></a></li>
+                <li><a href="/"><i class="icon-info-circled"></i><span>about</span></a></li>
+                <li><a href="/projects.html"><i class="icon-wrench"></i><span>projects</span></a></li>
+                <li><a href="/publications.html"><i class="icon-wrench"></i><span>publications</span></a></li>
+                <li><a href="/research.html"><i class="icon-wrench"></i><span>research</span></a></li>
+                <li><a href="/teaching.html"><i class="icon-wrench"></i><span>teaching</span></a></li>
             </ul>
         </div>
 
@@ -71,6 +71,62 @@ full PhD scope. If you are interested in working on any of the projects please <
 <h4 id="computational-neuroscience-projects">Computational Neuroscience Projects</h4>
 
 <ul>
+  <li>
+    <p><a href="javascript:void(0)" onclick="$('#project_body').toggle();">Biologically plausible model of body representation development.</a> <br />
+  <small id="project_body" class="studentprojectlist" style="display: none;">
+This project is performed in tight collaboration with the robotics group of <a href="https://sites.google.com/site/matejhof/home">Matej Hoffman</a>.
+The goal of this project is to explain how body representations can be learned in humanoid robots during
+haptic self-exploration based on inputs provided by ‘artificial skin’ covering the robot’s body.
+We hypothesize that <a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3082289/pdf/fncom-05-00017.pdf">our model of cortical development proposed</a> 
+can aid this goal in following two ways:  (i) the model itself, when fed with the somatosensory data will form effective, 
+biologically plausible representation of body surface, (ii) the novelty signal that can be straightforwardly 
+obtained from the model can within the closed loop paradigm guide self-exploration behavior towards efficient 
+exploration of the body space. The novelty signal is readily available in the model, as novel inputs are poorly 
+represented by the evolving cortical representation and thus the input will have high distance from the most representative 
+(close within input space) cortical neuron. Thus a simple winner-take-all mechanism at the cortical level, that outputs 
+the distance between the input and the point in input space the winner neuron represents will yield effective novelty signal. 
+The student will test these hypotheses in collaboration with the <a href="https://sites.google.com/site/matejhof/home">Hoffman group</a> guided by following milestones. He/she will
+implement and validate the model of somatosensory map formation from artificial skin inputs, implement the novelty signal extraction 
+mechanism, test its impact on map formation in closed-loop system, integrate the resulting model within the humanoid 
+robotic system at Hoffman group, and perform experiments to confirm effectiveness of the model and search for bio-morphic 
+correlates in the resulting behavior.
+  </small></p>
+  </li>
+  <li>
+    <p><a href="javascript:void(0)" onclick="$('#project_tw').toggle();">Travelling waves.</a> <br />
+  <small id="project_tw" class="studentprojectlist" style="display: none;">
+     During spontaneous activity, mammalina cortex exhibits regular spontaneous emergence of waves of activity that travel across the cortical surface. 
+     Furthermore, spatially, these waves tend to be correlated with the functional organization across cortical surface. Such highly structured spontaneous
+     activity, present even in low-level sensory cortical areas,  has been hypothesized to be linked to such phenomena, as imagination, dreams, formation 
+     of long-term memory and other high-level cognitive phenomena. In this project student will explore the presence of such spontaneos waves in our comprehensive model
+of cat primary visual cortex. He/she will expand the <a href="https://github.com/antolikjan/mozaik">Mozaik</a> framework with the ability to record Local Field Potential
+type of signal. Perform experiments in which the waves will be recorded and will compare such in-silico generated data to in-vivo data from our international collaborators.
+  </small></p>
+  </li>
+  <li>
+    <p><a href="javascript:void(0)" onclick="$('#project_assoc').toggle();">Association field in visual cortex of higher mammals</a> <br />
+  <small id="project_assoc" class="studentprojectlist" style="display: none;">
+     In the visual environment, human observers directly extract continuous contours effortlessly. This could be explained by the existence of lateral 
+     interactions between cortical cells in V1 that facilitate the binding of collinear, and to a certain extent co-circular, edges in the visual field. 
+     Recent electrophysiological data from <a href="http://neuro-psi.cnrs.fr/spip.php?page=ICN&amp;lang=fr">collaborating group in France</a> supports this hypothesis. 
+     Coherent flows of oriented stimuli originating from the far periphery and converging towards the receptive field center of V1 single cells are able 
+     to elicit an earlier and stronger response when compared to the sole stimulation of the receptive field center. This lateral interaction is the 
+     synaptic footprint of a dynamic association field that favours the binding of form and motion as early as V1. One of the ongoing projects in our group 
+     is the development of a large-scale integrative model of cat primary visual cortex (V1). The student’s task will be to analyse in this model the progressive build-up 
+     of activity by multiple nearby neurons that contribute to the emergence of the assocation field.
+  </small></p>
+  </li>
+  <li>
+    <p><a href="javascript:void(0)" onclick="$('#project_v1dnn').toggle();">Early visual cortex vs Deep Neural Networks.</a> <br />
+  <small id="project_v1dnn" class="studentprojectlist" style="display: none;">
+  Deep neural networks are becoming an important tool in understanding biological neural computation. For example, the computational power of different cortical 
+  areas along the visual hierarchy has been successfully estimated by comparing the recordings of neurons from these areas to neurons in different layers of 
+  DNNs trained on visual data. Such studies with in-vivo data, however, have limitations due to the ability to record only single cell at a time. In this project 
+  we will explore the possibility of using DNNs to estimate the computing power of a detailed model of cat primary visual cortex, as well as apply techniques 
+  developed for analysis of transformations happening along the layers of DNNs to estimate the transformation performed by early visual system. This way, we will
+  surprass the limitations imposed by in-vivo recordings, and further our understanding of computation happening in early visual system.
+  </small></p>
+  </li>
   <li>
     <p><a href="javascript:void(0)" onclick="$('#project1').toggle();">Unifying retinal mozaik model with activity based development.</a> <br />
   <small id="project1" class="studentprojectlist" style="display: none;">
@@ -227,7 +283,7 @@ analytical skills required. Knowledge of Python, computation neuroscience or neu
         </footer>
     </div>
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
-    <script src="./vendor/autolinker/Autolinker.min.js?rev="></script>
-    <script src="./assets/js/main.js?rev="></script>
+    <script src="/vendor/autolinker/Autolinker.min.js?rev="></script>
+    <script src="/assets/js/main.js?rev="></script>
 </body>
 </html>
