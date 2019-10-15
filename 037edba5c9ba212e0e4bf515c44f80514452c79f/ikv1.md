@@ -27,7 +27,7 @@ During october you should receive email with details of the experiment and the d
 
 |--------|-------------------------------------------|----|
 |2.10. |  &nbsp;&nbsp; Ján Antolík - Introduction (S9: 12:20-15:30)| &nbsp;&nbsp; [slides](/assets/slides/IKV1Introduction.pdf)|
-|9.10. |  &nbsp;&nbsp; Ján Antolík - Neurons - Biology (S9: 12:20-15:30)| &nbsp;&nbsp; [slides](/assets/NeuronsBiology.zip)|
+|9.10. |  &nbsp;&nbsp; Ján Antolík - Neurons - Biology (S9: 12:20-15:30)| &nbsp;&nbsp; [slides](/assets/slides/NeuronsBiology.zip)|
 |16.10.|  &nbsp;&nbsp;  Ján Antolík - Neurons - Models (S9: 12:20-15:30)|&nbsp;&nbsp; [slides](/assets/slides/neurons_models.pdf)|
 |23.10.|  &nbsp;&nbsp;  Jiri Lukavsky - Cognitive psychology I (S9: 12:20-15:30)||
 |30.10.|  &nbsp;&nbsp;  Jan Antolik - Cortical architecture (S9: 12:20-15:30) ||
