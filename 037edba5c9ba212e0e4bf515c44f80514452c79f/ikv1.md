@@ -31,7 +31,7 @@ During october you should receive email with details of the experiment and the d
 |16.10.|  &nbsp;&nbsp;  Ján Antolík - Neurons - Models (S9: 12:20-15:30)|&nbsp;&nbsp; [slides](/assets/slides/neurons_models.pdf)|
 |23.10.|  &nbsp;&nbsp;  Jiri Lukavsky - Cognitive psychology I (S9: 12:20-15:30)||
 |30.10.|  &nbsp;&nbsp;  Jan Antolik - Neural coding & Cortical architecture (S9: 12:20-15:30) |&nbsp;&nbsp; [slides_neur_cod](/assets/slides/NeuralCoding.pdf) &nbsp; [slides_cort_arch](/assets/slides/CorticalArchitectures.pdf)  |
-|6.11. |  &nbsp;&nbsp;  Ján Antolík - Introduction to Vision Systems (S9: 12:20-15:30)|&nbsp;&nbsp; [slides](VisualSystemGeneralOverview.pdf) |
+|6.11. |  &nbsp;&nbsp;  Ján Antolík - Introduction to Vision Systems (S9: 12:20-15:30)|&nbsp;&nbsp; [slides](/assets/slides/VisualSystemGeneralOverview.pdf) |
 |13.11.|  &nbsp;&nbsp;  Ján Antolík - test (S9: 12:20-13:50), Filip Dechterenko - Seminar I (S9: 14:00-15:30)||
 |20.11.|  &nbsp;&nbsp;  Jiri Lukavsky - Cognitive psychology II (S9: 12:20-15:30)||
 |27.11.|  &nbsp;&nbsp;  Jiri Lukavsky - Cognitive psychology III (S9: 12:20-15:30)||
