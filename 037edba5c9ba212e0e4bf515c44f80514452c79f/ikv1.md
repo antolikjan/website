@@ -36,11 +36,11 @@ Here you can download the course [assignment](/assets/data/assignment_package_co
 |23.10.|  &nbsp;&nbsp;  Jiri Lukavsky - Cognitive psychology I (S9: 12:20-15:30)|&nbsp;&nbsp; [slides](/assets/slides/ikv00_history_methods.pdf )|
 |30.10.|  &nbsp;&nbsp;  Jan Antolik - Neural coding & Cortical architecture (S9: 12:20-15:30) |&nbsp;&nbsp; [slides_neur_cod](/assets/slides/NeuralCoding.pdf) &nbsp; [slides_cort_arch](/assets/slides/CorticalArchitectures.pdf)  |
 |6.11. |  &nbsp;&nbsp;  Ján Antolík - Introduction to Vision Systems (S9: 12:20-15:30)|&nbsp;&nbsp; [slides](/assets/slides/VisualSystemGeneralOverview.pdf) |
-|13.11.|  &nbsp;&nbsp;  Ján Antolík - test (S9: 12:20-13:50), Filip Dechterenko - Seminar I (S9: 14:00-15:30)||
+|13.11.|  &nbsp;&nbsp;  Ján Antolík - test (S9: 12:20-13:50), Filip Dechterenko - Seminar I (S9: 14:00-15:30)|&nbsp;&nbsp; [slides](/assets/slides/EyeTracking.pptx)|
 |20.11.|  &nbsp;&nbsp;  Jiri Lukavsky - Cognitive psychology II (S9: 12:20-15:30)|&nbsp;&nbsp; [slides](/assets/slides/ikv02_perception.pdf)|
 |27.11.|  &nbsp;&nbsp;  Jiri Lukavsky - Cognitive psychology III (S9: 12:20-15:30)|&nbsp;&nbsp; [slides1](/assets/slides/ikv03_attention.pdf) &nbsp; [slides2](/assets/slides/ikv04_memory.pdf) | 
 |4.12. |  &nbsp;&nbsp; Jiri Lukavsky - Cognitive psychology IV (S9: 12:20-15:30)||
-|11.12.|  &nbsp;&nbsp;  Matej Hoffman - Motor system (S9: 12:20-15:30)||
-|18.12.|  &nbsp;&nbsp;  Filip Dechterenko - Seminar II (S9: 12:20-15:30)|| 
+|11.12.|  &nbsp;&nbsp;  Matej Hoffman - Motor system (S9: 12:20-15:30)|&nbsp;&nbsp; [slides1](/assets/slides/Hoffmann_InformaticsCogScience_2019_Part1_MotorSystem.pdf) &nbsp; [slides2](https://www.dropbox.com/s/0caw7owird1qaxq/Hoffmann_InformaticsCogScience_2019_Part2_HumanoidRobotics.pdf?dl=0)|
+|18.12.|  &nbsp;&nbsp;  Filip Dechterenko - Seminar II (S9: 12:20-15:30)|&nbsp;&nbsp; [slides1](/assets/slides/Psychophysics.pptx) &nbsp; [slides2](/assets/slides/IBO_novideos.pptx)|
 |8.1.  |  &nbsp;&nbsp; Filip Dechterenko - Seminar III (S9: 12:20-15:30)||
-|
+
