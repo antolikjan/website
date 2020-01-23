@@ -63,6 +63,14 @@ robotic system at Hoffman group, and perform experiments to confirm effectivenes
 correlates in the resulting behavior.
     </small>
 
+* <a href="javascript:void(0)" onclick="$('#project_mozaik_ON_OFF').toggle();">OFF centred thalamic V1 convergence.</a>   
+    <small id="project_mozaik_ON_OFF" class="studentprojectlist" style="display: none;">
+    Recent [work](https://www.nature.com/articles/nature17936) by Alonso Lab has shown that thalamic ON and OFF afferents converging onto neurons in primary visual cortex
+    have a very specific organization, which is OFF dominated, OFF centric and runs orthogonal to ocular dominance columns. Our current <a href="./projects.html">large-scale integrative model </a> 
+    of V1 does not feature this specific organization of thalamo-cortical afferents. The goal of this project will be to integrate this specific thalamo-cortical convergence 
+into the model, and then analyze the impact of this more specfific connectivity on the functional properties of the model.
+    </small>
+
 
 * <a href="javascript:void(0)" onclick="$('#project_tw').toggle();">Travelling waves.</a>   
     <small id="project_tw" class="studentprojectlist" style="display: none;">
@@ -94,6 +102,18 @@ type of signal. Perform experiments in which the waves will be recorded and will
     we will explore the possibility of using DNNs to estimate the computing power of a detailed model of cat primary visual cortex, as well as apply techniques 
     developed for analysis of transformations happening along the layers of DNNs to estimate the transformation performed by early visual system. This way, we will
     surprass the limitations imposed by in-vivo recordings, and further our understanding of computation happening in early visual system.
+    </small>
+
+
+* <a href="javascript:void(0)" onclick="$('#project_dev_ON_OFF').toggle();">Reconciling activity driven development of orientation maps with ON/OFF V1 convergence.</a>   
+    <small id="project_dev_ON_OFF" class="studentprojectlist" style="display: none;">
+    During post-natal development, primary visual cortex undergoes remarkable functional organization resulting in expression
+    of topologically smooth orientation map across it's surface. The most common type of explenation for this phenomena is activity based development,
+    whereby internally generated or visually driven activity coupled with plasticity in the thalamo-cortical and corico-cortical pathway
+    induces gradual establishment of the orientation maps. [LISSOM](http://ioam.github.io/topographica/Tutorials/GCAL_Tutorial.html) based familiy of models is an example of such activity + plasticity driven theoretical explanation of this phenomena.
+    Recent [work](https://www.nature.com/articles/nature17936) by Alonso Lab has shown that thalamic ON and OFF afferents converging onto neurons in primary visual cortex
+    have a very specific organization, which is OFF dominated, OFF centric and runs orthogonal to ocular dominance columns. The current activity driven models of V1 development 
+    cannot explain this specific organization of thalamo-cortical afferents. The goal of this project will be the expand these models to account for these new findings.
     </small>
 
 
