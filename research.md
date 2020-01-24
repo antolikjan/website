@@ -17,7 +17,7 @@ primary visual cortex neurons. Next I have switched my attention to studying cat
 the <a href="https://www.unic.cnrs-gif.fr/">UNIC</a> department of CNRS.  I then continued to pursue the study of early vision at <a href="http://www.institut-vision.org/en/">Institute de la Vision</a> in Paris in the
 group of <a href="http://www.institut-vision.org/en/vision-and-natural-computation/item/109-benosman-ryad.html">Pr. Ryad Benosman</a>, where I applied the large scale models of V1 to 
 the problem of [optogenetic based cortical visual prosthesis](https://www.darpa.mil/news-events/2017-07-10), as well as utilized my experience in artificial intelligence and 
-cortical modeling to pursue projects in the field of [Neuromorphic Vision](http://neuromorphic-vision.com/). Currently I continue to purse all these lines of research at my alma mater, 
+cortical modeling to pursue projects in the field of [Neuromorphic Vision](http://neuromorphic-vision.com/). Currently I continue to pursue all these lines of research at my alma mater, 
 the <a href="https://www.mff.cuni.cz/">Faculty of Mathematics and Physics</a> of <a href="https://cuni.cz/">Charles University</a> in Prague. 
 
 

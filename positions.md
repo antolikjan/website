@@ -27,6 +27,6 @@ The exact project topic is flexible but should fall within the confines of follo
 * Computational modelling of prosthetic vision systems
 * Modelling of activity driven development of funcional visual system
 
-Please look [here](/research.html) at examples of available projects, but we wellcome students with their own
+Please look [here](/research.html) at examples of available projects, but we welcome students with their own
 project ideas, as long as they are aligned with the resarch focus of the group.
 
