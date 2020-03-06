@@ -3,7 +3,7 @@ layout: default
 title: Positions
 ---
 
-We are always on a lookout for talented motivated young researchers or student to join our ranks. If our 
+We are always on a lookout for talented motivated students or young researcherto join our ranks. If our 
 research caught your interest, and your skills fit the focus of our group  feel free to drop 
 us an [email](/index.html) with description of why you are interested in joining us, and a CV.
 
