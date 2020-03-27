@@ -17,31 +17,24 @@ but neural and behavioral learning will also be covered. Starting from school ye
 
 |--------|-------------------------------------------|----|
 | 4.3.  |  &nbsp;&nbsp; Sub-cortical vision, color, binocularity | | &nbsp;&nbsp;  [slides](./assets/slides/SubCorticalVision.pdf) &nbsp;&nbsp; [\(intro\)](./assets/slides/Introduction.pdf)| 
-| 11.3.   |  &nbsp;&nbsp; Medium-to-high level vision |  | 
-| 18.3.  |  &nbsp;&nbsp; Development and learning in vision | | 
-| 25.3.  |  &nbsp;&nbsp; Computational modelling: system identification | | 
-| 1.4.  |  &nbsp;&nbsp; Kamil Vlček - Methods |  | 
+| 11.3.   |  &nbsp;&nbsp; Medium-to-high level vision |&nbsp;&nbsp; [slides](./assets/slides/ExtraStriateCortex.pdf)  | 
+| 18.3.  |  &nbsp;&nbsp; Development and learning in vision | &nbsp;&nbsp; [slides](./assets/slides/development.pdf) | 
+| 25.3.  |  &nbsp;&nbsp; Computational modelling: system identification | &nbsp;&nbsp; [slides](./assets/slides/SystemIdentificationMethods.pdf) | 
+| 1.4.  |  &nbsp;&nbsp; Kamil Vlček - Methods  | | 
 | 8.4.   |  &nbsp;&nbsp; Kamil Vlček - Memory  | |
-| 15.4.  |  &nbsp;&nbsp; Learning  | |
+| 15.4.  |  &nbsp;&nbsp; Computational modelling: system identification II| | 
 | 22.4.  |  &nbsp;&nbsp; Kamil Vlček - Navigation  | | 
-| 29.4.  |  &nbsp;&nbsp; Hippocampus  | |
+| 29.4.  |  &nbsp;&nbsp; Computational modelling: dynamical modelling | &nbsp;&nbsp; [slides](./assets/slides/DynamicalModels.pdf) | 
 | 6.5.  |  &nbsp;&nbsp;  Dean's day - no teaching | |
-| 13.5.  |  &nbsp;&nbsp; Cognitive theories of multimedia learning | |
+| 13.5.  |  &nbsp;&nbsp; Cyril Brom - Cognitive theories of multimedia learning | |
 | 20.5.  |  &nbsp;&nbsp; Presentations & Exam | |
 
 
-#### Friday sessions (14:00 - 15:30)
+#### Friday sessions (11:00 - 12:30)
 
 |--------|-------------------------------------------|----|
-| 3.4.  |  &nbsp;&nbsp; Computational modelling: dynamical modelling |  | 
-| 17.4. |  &nbsp;&nbsp; Topographica modelling excercise session 1 |
-| 24.4. |  &nbsp;&nbsp; Topographica modelling excercise session 2 |
-| 15.5. |  &nbsp;&nbsp; Topographica modelling excercise session 3 |
-
-
-<!---&nbsp;&nbsp; [slides](./assets/slides/DynamicalModels.pdf) | --->
-<!---&nbsp;&nbsp; [slides](./assets/slides/ExtraStriateCortex.pdf) | --->
-<!---&nbsp;&nbsp; [slides](./assets/slides/development.pdf) | --->
-<!---&nbsp;&nbsp; [slides](./assets/slides/SystemIdentificationMethods.pdf) | --->
-
+| 27.3. |  &nbsp;&nbsp; Topographica modelling excercise session 1 | &nbsp;&nbsp; [slides](./assets/slides/LabWork.zip) |
+| 3.4. |  &nbsp;&nbsp; Topographica modelling excercise session 2 | |
+| 10.4. |  &nbsp;&nbsp; Topographica modelling excercise session 3 | |
+| 17.4. |  &nbsp;&nbsp; Topographica modelling excercise session 4 | |
 
