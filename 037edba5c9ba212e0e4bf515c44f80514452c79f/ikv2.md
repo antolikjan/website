@@ -35,6 +35,6 @@ but neural and behavioral learning will also be covered. Starting from school ye
 |--------|-------------------------------------------|----|
 | 27.3. |  &nbsp;&nbsp; Topographica modelling excercise session 1 | &nbsp;&nbsp; [slides](../assets/slides/LabWork.zip) |
 | 3.4. |  &nbsp;&nbsp; Topographica modelling excercise session 2 | |
-| 10.4. |  &nbsp;&nbsp; Topographica modelling excercise session 3 | |
-| 17.4. |  &nbsp;&nbsp; Topographica modelling excercise session 4 | |
+| 17.4. |  &nbsp;&nbsp; Topographica modelling excercise session 3 | |
+| 24.4. |  &nbsp;&nbsp; Topographica modelling excercise session 4 | |
 
