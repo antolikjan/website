@@ -36,7 +36,7 @@ Here you can download the course [assignment](/assets/data/assignment_package_co
 ### Lecture overview and slides
 
 |--------|-------------------------------------------|----|
-|1.10. |  &nbsp;&nbsp; Ján Antolík - Introduction (S4,S8: 10:40-13:50) | &nbsp;&nbsp; |
+|1.10. |  &nbsp;&nbsp; Ján Antolík - Introduction (S4,S8: 10:40-13:50) | &nbsp;&nbsp; [slides](https://u.pcloud.link/publink/show?code=kZdwBJXZrJorIDeMKBHzWJMVDCFjRF6OJWMy)|
 |8.10. |  &nbsp;&nbsp; Ján Antolík - Neurons - Biology (S4,S8: 10:40-13:50) | &nbsp;&nbsp; |
 |15.10.|  &nbsp;&nbsp;  Ján Antolík - Neurons - Models (S4,S8: 10:40-13:50) |&nbsp;&nbsp; |
 |22.10.|  &nbsp;&nbsp;  Ján Antolík - Neural coding (S4: 10:40-12:10), Filip Dechterenko - Seminar I (S8: 12:20-13:50) |&nbsp;&nbsp; |
