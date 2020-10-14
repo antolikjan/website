@@ -17,8 +17,9 @@ possibilities that you could pursue:
 
 * The PhD program of Faculty of Mathematics and Physics of Charles University. Any student that 
 passes the entrance exam can be enrolled in this *funded* PhD program. A successful candidate can 
-expect an equivalent of gross income of approximatly 1050 euros per month. Once living costs are taken into account, this allows for comfortable living arrangements
-in Prague. For more details contact 
+expect an equivalent of gross income of 28000 Czk, which at the time of writing (10.10.2020) is 
+approximatly 1050 euros per month. Once living costs in Prague are taken into account, this 
+allows for comfortable living arrangements. For more details contact 
 [me](/index.html). Additional funding schemes, such as teaching, mobility grants, 
 or intra-university project grants allow for further increases of the salary.
 
