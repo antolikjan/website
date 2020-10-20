@@ -36,9 +36,9 @@ Here you can download the course [assignment](/assets/data/assignment_package_co
 ### Lecture overview and slides
 
 |--------|-------------------------------------------|----|
-|1.10. |  &nbsp;&nbsp; Ján Antolík - Introduction (S4,S8: 10:40-13:50) | &nbsp;&nbsp; [slides](https://u.pcloud.link/publink/show?code=kZdwBJXZrJorIDeMKBHzWJMVDCFjRF6OJWMy)  &nbsp; [video](https://u.pcloud.link/publink/show?code=XZw4qJXZkOxVefrj06JPWlvjVOzqXp2zdmoy)|
-|8.10. |  &nbsp;&nbsp; Ján Antolík - Neurons - Biology (S4,S8: 10:40-13:50) | &nbsp;&nbsp; [slides](https://u.pcloud.link/publink/show?code=XZuMRFXZ3QoI0YqynpbbtROFnhWeS4gov9Cy) &nbsp; [video](https://u.pcloud.link/publink/show?code=XZ6H2FXZXVRcPgsIAjyJLXmXAln20FvxJbC7)|
-|15.10.|  &nbsp;&nbsp;  Ján Antolík - Neurons - Models (S4,S8: 10:40-13:50) |&nbsp;&nbsp; [slies](https://u.pcloud.link/publink/show?code=XZhhaFXZPTaHVYu4vt85Ej3PBJ8DhHQDCEHX)|
+|1.10. |  &nbsp;&nbsp; Ján Antolík - Introduction (S4,S8: 10:40-13:50) | &nbsp;&nbsp; [slides](https://u.pcloud.link/publink/show?code=kZdwBJXZrJorIDeMKBHzWJMVDCFjRF6OJWMy)      &nbsp; [video](https://u.pcloud.link/publink/show?code=XZw4qJXZkOxVefrj06JPWlvjVOzqXp2zdmoy)  |
+|8.10. |  &nbsp;&nbsp; Ján Antolík - Neurons - Biology (S4,S8: 10:40-13:50) | &nbsp;&nbsp; [slides](https://u.pcloud.link/publink/show?code=XZuMRFXZ3QoI0YqynpbbtROFnhWeS4gov9Cy) &nbsp; [video](https://u.pcloud.link/publink/show?code=XZ6H2FXZXVRcPgsIAjyJLXmXAln20FvxJbC7)  |
+|15.10.|  &nbsp;&nbsp;  Ján Antolík - Neurons - Models (S4,S8: 10:40-13:50) |&nbsp;&nbsp; [slides](https://u.pcloud.link/publink/show?code=XZhhaFXZPTaHVYu4vt85Ej3PBJ8DhHQDCEHX)  &nbsp; [video](https://u.pcloud.link/publink/show?code=XZaHBpXZD3YRN1pP3phbQ4ROlIBU6zp3wGjX)  |
 |22.10.|  &nbsp;&nbsp;  Ján Antolík - Neural coding (S4: 10:40-12:10), Filip Dechterenko - Seminar I (S8: 12:20-13:50) |&nbsp;&nbsp; |
 |29.10.|  &nbsp;&nbsp;  Jan Antolik - test (S4: 19:40-12:10), Cortical architecture & Introduction to Vision  (S8: 12:20-13:50) |&nbsp;&nbsp;|
 |5.11.|  &nbsp;&nbsp;  Jiri Lukavsky - Cognitive psychology I (S4,S8: 10:40-13:50) |&nbsp;&nbsp; |
