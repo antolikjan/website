@@ -23,7 +23,7 @@ allows for comfortable living arrangements. For more details contact
 [me](/index.html). Additional funding schemes, such as teaching, mobility grants, 
 or intra-university project grants allow for further increases of the salary.
 
-### Post-docotral fellow funding
+### Post-doctoral fellow funding
 
 * Charles University is making yearly calls for [visting post-doctoral fellows](https://cuni.cz/UKEN-178.html), 
 that come with 2 year contracts and attractive salary.
