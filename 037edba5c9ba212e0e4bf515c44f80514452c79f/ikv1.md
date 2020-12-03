@@ -16,7 +16,7 @@ including vision and motor system.
 1) A computational modelling task <br>
 2) A psychological experiment <br>
 <!--3) Participation in a psychological experiment <br> -->
-3) Written test: Required reading: [Bear book](https://www.amazon.com/Neuroscience-Exploring-Mark-F-Bear/dp/0781760038), available in library, chapters. 1 - 5 <br>
+3) Written test: Required reading: [Bear book](https://www.amazon.com/Neuroscience-Exploring-Mark-F-Bear/dp/0781760038), available in library, chapters 1-5. <br>
 
 
 
@@ -28,10 +28,11 @@ The experiment will be run by [Filip Děchtěrenko](http://www.ms.mff.cuni.cz/~d
 During october you should receive email with details of the experiment and the date.
 -->
 
-<!-- ### Asignment
+### Assignment
 
-Here you can download the course [assignment](/assets/data/assignment_package_contrast.zip)
--->
+Computational analysis homework is [here](https://github.com/fidadoma/etraChallenge_ICS).
+Psychological experiment assignemnt is [here](https://osf.io/d42v3/).
+
 
 ### Lecture overview and slides
 
