@@ -43,6 +43,18 @@ full PhD scope. If you are interested in working on any of the projects please [
 
 #### Computational Neuroscience Projects
 
+
+
+* <a href="javascript:void(0)" onclick="$('#project_RF').toggle();">Characterizing RFs in V1 model.</a>   
+    <small id="project_RF" class="studentprojectlist" style="display: none;">
+    We have recently constructed a detailed large-scale [model](https://www.biorxiv.org/content/biorxiv/early/2019/02/20/416156.full.pdf) of cat primary visual cortex.
+    One of the major approaches for characterizing the functional properties of sensory neurons is called system indetification, wherby one applies machine learning
+    techniques to long recordings of neurons responding to sensory stimuli. Many such studies have been undertaken for primary visual cortex. In this project the goal
+    is to analyze our model of V1 with the same system identification techniques to compare how neurons in the model encode visual information in comparison to 
+    their biological counterparts.
+</small>
+
+
 * <a href="javascript:void(0)" onclick="$('#project_macaque').toggle();">Model of Macaque V1.</a>   
     <small id="project_macaque" class="studentprojectlist" style="display: none;">
     We have recently constructed a detailed large-scale [model](https://www.biorxiv.org/content/biorxiv/early/2019/02/20/416156.full.pdf) of cat primary visual cortex.
@@ -51,7 +63,6 @@ full PhD scope. If you are interested in working on any of the projects please [
     reparametrize the existing model of cat V1 to obtain analogouse model of macaque V1. Exploration of the implication of species differences
     on V1 processing is a possible future extension of the project. 
   </small>
-
 
 * <a href="javascript:void(0)" onclick="$('#project_body').toggle();">Biologically plausible model of body representation development.</a>   
     <small id="project_body" class="studentprojectlist" style="display: none;">
@@ -92,7 +103,7 @@ of cat primary visual cortex. He/she will expand the <a href="https://github.com
 type of signal. Perform experiments in which the waves will be recorded and will compare such in-silico generated data to in-vivo data from our international collaborators.
     </small>
 
-* <a href="javascript:void(0)" onclick="$('#project_assoc').toggle();">Association field in visual cortex of higher mammals</a>   
+* <a href="javascript:void(0)" onclick="$('#project_assoc').toggle();">Association field in visual cortex of higher mammals.</a>   
     <small id="project_assoc" class="studentprojectlist" style="display: none;">
        In the visual environment, human observers directly extract continuous contours effortlessly. This could be explained by the existence of lateral 
        interactions between cortical cells in V1 that facilitate the binding of collinear, and to a certain extent co-circular, edges in the visual field. 
@@ -166,7 +177,7 @@ type of signal. Perform experiments in which the waves will be recorded and will
         <a href="https://www.unic.cnrs-gif.fr/teams/Research%20group%20of%20Yves%20Fr%C3%A9gnac">Yves Frégnac group</a>. 
   </small>        
 
-* <a href="javascript:void(0)" onclick="$('#project9').toggle();">Processing of higher order correlations in early visual cortex\: a computational modelling investigation</a>   
+* <a href="javascript:void(0)" onclick="$('#project9').toggle();">Processing of higher order correlations in early visual cortex\: a computational modelling investigation.</a>   
   <small id="project9" class="studentprojectlist" style="display: none;">
     Recent experimental studies have revealed differences in how neurons in primary (V1) and secondary (V2) visual cortices (the first two stages of visual cortical processing) process high-order statistics in visual scenes, indicating emergence of sensitivity to 2nd order correlations in V2 but not V1 neurons \[[1](https://doi.org/10.1038/nn.3402),[2](https://doi.org/10.1016/j.visres.2014.10.004),[3](https://doi.org/10.7554/eLife.03722)\]. However, the neural mechanisms of such sensitivity, and their implementation in biological neural substrate remain unknown.  To address this question, we will use detailed large-scale spiking neural network modelling paradigm to formulate hypothesis of neural circuits that can explain such neural functional properties. The student will be responsible for the first stage of longer-term project, in which he will implement a set of specialized visual stimuli as in \[[1](https://doi.org/10.1038/nn.3402)\]. Subsequently, student will test an existing model of V1 using the same experimental paradigm as in \[[1](https://doi.org/10.1038/nn.3402)\] for sensitivity to 2nd order correlations.
   </small> 
