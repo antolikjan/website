@@ -46,8 +46,8 @@ Psychological experiment assignemnt is [here](https://osf.io/d42v3/).
 |12.11.|  &nbsp;&nbsp;  Jiri Lukavsky - Cognitive psychology I (S4,S8: 10:40-13:50) |&nbsp;&nbsp; [slides1](https://u.pcloud.link/publink/show?code=XZONezXZGVNNS5Ud4mVO0NCMn3oRn828yJb7) &nbsp; [slides2](https://u.pcloud.link/publink/show?code=XZ3NezXZ5YILwtKrORjpEljV25iPb0ztiWt7) [video](https://u.pcloud.link/publink/show?code=XZi2gRXZFLNO1zHvGE0vbXXOs6WU90qGwteV)|
 |19.11.|  &nbsp;&nbsp;  Jiri Lukavsky - Cognitive psychology II (S4,S8: 10:40-13:50) |&nbsp;&nbsp;[slides](https://u.pcloud.link/publink/show?code=XZ2WgRXZzPq6YS9AsKpePYN2GExBuuOKop8k) [video](https://u.pcloud.link/publink/show?code=XZ7WgRXZqwMd813QDpLjdqlLktPXjH1JOksk) |
 |3.12.|  &nbsp;&nbsp;  Filip Dechterenko - Seminar II (S4,S8: 10:40-13:50) |&nbsp;&nbsp; [slides](https://u.pcloud.link/publink/show?code=XZHL54XZzzqKp3sD88VMj6GveDXM4Rd27D6X) &nbsp;&nbsp; [video](https://u.pcloud.link/publink/show?code=XZmvJ4XZJQFMRuUcUFBd4PtDczhk0fFR5Wwy)|
-|10.12.|  &nbsp;&nbsp;  Matej Hoffman - Motor system (S4,S8: 10:40-13:50) |&nbsp;&nbsp; |
-|17.12.|  &nbsp;&nbsp;  Jiri Lukavsky - Cognitive psychology III (S4,S8: 10:40-13:50) |&nbsp;&nbsp; | 
+|10.12.|  &nbsp;&nbsp;  Matej Hoffman - Motor system (S4,S8: 10:40-13:50) |&nbsp;&nbsp; [slides1](https://u.pcloud.link/publink/show?code=XZOu9QXZtxLkcXpCJNjJ60MiJXk8oyQ39bmX) [slides2](https://u.pcloud.link/publink/show?code=XZOu9QXZtxLkcXpCJNjJ60MiJXk8oyQ39bmX)|
+|17.12.|  &nbsp;&nbsp;  Jiri Lukavsky - Cognitive psychology III (S4,S8: 10:40-13:50) |&nbsp;&nbsp; [slides1](https://u.pcloud.link/publink/show?code=XZfu9QXZQrpeMzus6Wz1J877yyaJWRMcGPk0) [slides2](https://u.pcloud.link/publink/show?code=XZwu9QXZVULB8gT1lfF0HYRSjH25yShPBrxV) [video](https://u.pcloud.link/publink/show?code=XZHf9QXZ5CB42T7xir5qBg0n0ghvd8NjnelX)| 
 |7.1.  |  &nbsp;&nbsp; Filip Dechterenko - Seminar III (S4,S8: 10:40-13:50) ||
 
 
