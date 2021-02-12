@@ -3,7 +3,7 @@ layout: default
 title: Research
 ---
 
-### Research background 1
+### Research background
 
 
 
