@@ -4,7 +4,7 @@ description: Homepage of Jan Antolik
 
 plugin_dirs: ['jekyll/scholar']
 
-baseurl : 'website'
+baseurl : '/website'
 
 scholar:
   style: apa-no-doi-no-issue
