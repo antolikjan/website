@@ -22,11 +22,11 @@ but neural and behavioral learning will also be covered. Starting from school ye
 | 26.3.  |  &nbsp;&nbsp; Computational modelling: system identification | &nbsp;&nbsp;  | 
 | 2.4.   |  &nbsp;&nbsp; State holidays |&nbsp;&nbsp;   | 
 | 9.4.   |  &nbsp;&nbsp; Computational modelling: dynamical modelling | &nbsp;&nbsp; | 
-| 16.4.  |  &nbsp;&nbsp; Computational modelling: normative models | &nbsp;&nbsp; | 
-| 23.4.  |  &nbsp;&nbsp; Development and learning in vision | &nbsp;&nbsp;  | 
+| 16.4.  |  &nbsp;&nbsp; Development and learning in vision | &nbsp;&nbsp; | 
+| 23.4.  |  &nbsp;&nbsp; Memory (Kamil Vlček) | &nbsp;&nbsp;  | 
 | 30.4.  |  &nbsp;&nbsp; Hippocampus (Karel Ježek) | |
 | 7.5.   |  &nbsp;&nbsp; Methodology of neurobiology (Kamil Vlček)  | | 
-| 14.5.   |  &nbsp;&nbsp; Memory (Kamil Vlček)  | |
+| 14.5.   |  &nbsp;&nbsp; Computational modelling: normative models  | |
 | 21.5.  |  &nbsp;&nbsp; Spatial cognition (Kamil Vlček) | | 
 | 28.5.  |  &nbsp;&nbsp; Cognitive theories of multimedia learning (Cyril Brom) | |
 | 4.6.  |  &nbsp;&nbsp; Presentations | |
