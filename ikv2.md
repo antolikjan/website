@@ -18,18 +18,18 @@ but neural and behavioral learning will also be covered. Starting from school ye
 |--------|-------------------------------------------|----|
 | 5.3.   |  &nbsp;&nbsp; Introduction                 | [\(slides\)](https://u.pcloud.link/publink/show?code=XZbfHfXZEc8VO6Q8yejIEQouO38xeY7WQ8JX) |
 | 12.3.  |  &nbsp;&nbsp; Sub-cortical vision, color, binocularity |[\(slides\)](https://u.pcloud.link/publink/show?code=XZihmBXZF0c0sx1V7dXQjLkfUYvg14QHAF2k) &nbsp;&nbsp; [\(video\)](https://u.pcloud.link/publink/show?code=XZSOmBXZaOVfI0Jg93HPYRpSvpRorfJyt9MV)| 
-| 19.3.  |  &nbsp;&nbsp; Medium-to-high level vision |&nbsp;&nbsp;   | 
-| 26.3.  |  &nbsp;&nbsp; Computational modelling: system identification | &nbsp;&nbsp;  | 
+| 19.3.  |  &nbsp;&nbsp; Medium-to-high level vision | [\(slides\)] &nbsp;&nbsp;   [\(video\)](https://u.pcloud.link/publink/show?code=XZraS2XZy50ALeJEEdJnuVvszXEoImcW0mnV) | 
+| 26.3.  |  &nbsp;&nbsp; Development and learning in vision | &nbsp;&nbsp;  | 
 | 2.4.   |  &nbsp;&nbsp; State holidays |&nbsp;&nbsp;   | 
-| 9.4.   |  &nbsp;&nbsp; Computational modelling: dynamical modelling | &nbsp;&nbsp; | 
-| 16.4.  |  &nbsp;&nbsp; Development and learning in vision | &nbsp;&nbsp; | 
-| 23.4.  |  &nbsp;&nbsp; Memory (Kamil Vlček) | &nbsp;&nbsp;  | 
+| 9.4.   |  &nbsp;&nbsp; Computational modelling: system identification | &nbsp;&nbsp; | 
+| 16.4.  |  &nbsp;&nbsp; Computational modelling: dynamical modelling | &nbsp;&nbsp; | 
+| 23.4.  |  &nbsp;&nbsp; Methodology of neurobiology (Kamil Vlček) | &nbsp;&nbsp;  | 
 | 30.4.  |  &nbsp;&nbsp; Hippocampus (Karel Ježek) | |
-| 7.5.   |  &nbsp;&nbsp; Methodology of neurobiology (Kamil Vlček)  | | 
-| 14.5.   |  &nbsp;&nbsp; Computational modelling: normative models  | |
+| 7.5.   |  &nbsp;&nbsp; Memory (Kamil Vlček)  | | 
+| 14.5.  |  &nbsp;&nbsp; Computational modelling: normative models  | |
 | 21.5.  |  &nbsp;&nbsp; Spatial cognition (Kamil Vlček) | | 
 | 28.5.  |  &nbsp;&nbsp; Cognitive theories of multimedia learning (Cyril Brom) | |
-| 4.6.  |  &nbsp;&nbsp; Presentations | |
+| 4.6.   |  &nbsp;&nbsp; Synaptic plasticity (Daniel Novák) | |
 
 #### Lab work
 Mean field approaches: [slides](https://u.pcloud.link/publink/show?code=XZrEmBXZHgecb2lGB7So3MC50XbyUS8YUjG7) &nbsp;&nbsp; [video\(part1\)](https://u.pcloud.link/publink/show?code=XZxEmBXZy5x9INqz0WufGjq9Sfl4ufhEJ7ay) &nbsp;&nbsp;  [video\(part2\)](https://u.pcloud.link/publink/show?code=XZEEmBXZG91Rz5mCnw0NQU2olJrhHBSey7GV) &nbsp;&nbsp; [assignment](https://u.pcloud.link/publink/show?code=XZzOmBXZEBquBaMkvxQtKw1A4RP2eXi57Ufk)
